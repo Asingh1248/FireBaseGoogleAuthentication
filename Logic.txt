@@ -1,0 +1,3 @@
+Step1 : provider = new firebase.auth.GoogleAuthProvider();
+
+Step 2:firebase.auth().signInWithPopup(provider).then(function (result) {if (Successful login)}
